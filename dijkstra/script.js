@@ -1,4 +1,4 @@
-let graph = {
+const graph = {
     'A' : {
         name: 'A',
         siblings: [{name: 'B', weight: 1}, {name: 'C', weight: 2}]
